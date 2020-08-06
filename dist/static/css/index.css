@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+}
+#app {
+    height: 100%;
+    width: 100%;
+}
+* {
+    color: #252629;
+    padding: 0px;
+    margin: 0px;
+}
